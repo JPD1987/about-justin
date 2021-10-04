@@ -1,0 +1,21 @@
+img {
+    max-height: 325px;
+    max-width: 325px;
+}
+
+figure {
+    text-align: center;
+}
+
+html {
+    background-color: green;
+}
+
+ul {
+    color: black;
+}
+
+img {
+    max-width: 325px;
+    max-height: 325px;
+}
