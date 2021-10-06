@@ -31,7 +31,7 @@ img {
     color: #fff;
     text-shadow: 0 0 8px yellow;
     animation: blinker 6s;
-    animation-iteration-count: 1;
+    animation-iteration-count: 20;
 }
 @keyframes blinker {
     0% {
